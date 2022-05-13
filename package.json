@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/stripe": "^8.0.417",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "sass": "^1.51.0"
+    "react-icon": "^1.0.0",
+    "react-icons": "^4.3.1",
+    "sass": "^1.51.0",
+    "stripe": "^9.1.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.32",
